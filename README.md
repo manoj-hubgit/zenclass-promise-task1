@@ -1,7 +1,5 @@
+Dog Fact Randomizer website:
 
-Creating a README file for your GitHub repository is essential for helping users understand your project, how to use it, and how to contribute. Here's a template you can use for your Dog Fact Randomizer website:
-
-Dog Fact Randomizer
 Welcome to the Dog Fact Randomizer project! This simple web application displays random facts about dogs each time the user refreshes the page. The project utilizes a public API to fetch these facts and leverages JavaScript promises for asynchronous data retrieval.
 
 Demo
